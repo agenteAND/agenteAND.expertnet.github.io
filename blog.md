@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-subtitle: Select ramblings of Pudhina
+subtitle:
 ---
 
 <div>
@@ -27,4 +27,5 @@ subtitle: Select ramblings of Pudhina
 {% endfor %}
 </ul>
 {% endfor %}
+<h3>Cooming soon</h3>
 </div>

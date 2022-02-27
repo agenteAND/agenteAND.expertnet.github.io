@@ -3,15 +3,19 @@ title: Expertnet Technologies
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://expertnettechnologies.com" # the base hostname & protocol for your site
 
 author:
   fullname: Luis Solis
   github: agenteAND
-  linkedin: linkedin
+  linkedin: expertnet-technologies-llc
   email: l.soli@expertnettechnologies.com
 
+
+collections:
+  projects:
+    output: true
 
 # Syntax highlighting
 highlightstyle: 'agate'
